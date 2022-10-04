@@ -14,10 +14,8 @@
 
 **Como rodar o desafio**:
 
-Use um dos comandos abaixo:
+Use o comando abaixo:
 ```bash
 cargo run
 ```
-```bash
-./hello_world
-```
+
